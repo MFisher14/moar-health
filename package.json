@@ -1,0 +1,35 @@
+{
+  "name": "moar-health",
+  "version": "1.0.0",
+  "description": "Moar Health Tracking",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-react-app": "^3.1.2",
+    "farnsworth-attach": "^1.0.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.0.0-beta.56",
+    "@babel/core": "^7.0.0-beta.56",
+    "@babel/preset-env": "^7.0.0-beta.56",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "firebase": "^5.3.1",
+    "jsdoc": "^3.5.5",
+    "jsdoc-to-markdown": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farnsworth2008/moar-health.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farnsworth2008/moar-health/issues"
+  },
+  "homepage": "https://github.com/farnsworth2008/moar-health#readme",
+  "keywords": []
+}
